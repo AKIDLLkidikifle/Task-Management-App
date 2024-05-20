@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import Loading from "../components/Loader";
 import Title from "../components/Title";
 import Button from "../components/Button";
-import { IoMdAdd } from "react-icons/io";
+import { IoMdAdd } from "react-icons/io"; 
 import Tabs from "../components/Tabs";
 import TaskTitle from "../components/TaskTitle";
 import BoardView from "../components/BoardView";

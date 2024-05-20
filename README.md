@@ -68,7 +68,7 @@ With the rise of remote work and dispersed teams, there is a growing need for to
 
 ## **Technologies Used:**
 - **Frontend:**
-    - React (Vite)
+    - React 
     - Redux Toolkit for State Management
     - Headless UI
     - Tailwind CSS
